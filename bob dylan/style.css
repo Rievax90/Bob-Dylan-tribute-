@@ -1,0 +1,107 @@
+body {
+  font-family: monospace;
+  background-color: grey;
+}
+
+#bob {
+  height: 500px;
+  width: 600px;
+  margin-top: 200px;
+  margin-bottom: 40px;
+}
+
+h1 {
+  color: red;
+  margin-top: 10px;
+  text-align: center;
+  font-family: monospace;
+}
+
+a {
+  color: black;
+}
+
+#nav {
+  margin: auto;
+  width: 17%;
+  font-size: 20px;
+  font-family: monospace;
+  text-decoration: ;
+  display: flex;
+  list-style-type: none;
+}
+
+#h2 {
+  color: red;
+  margin-top: 20px;
+  text-align: center;
+}
+
+#about {
+  color: red;
+  margin-top: 150px;
+  margin-bottom: 40px;
+  text-align: center;
+}
+
+#aboutpara {
+  text-indent: 40px;
+  font-size: 20px;
+  color: red;
+  line-height: 40px;
+}
+
+#facts {
+  color: white;
+  margin-top: 150px;
+  margin-bottom: 40px;
+  text-align: center;
+}
+
+li {
+  font-size: 20px;
+  color: white;
+  padding: 10px;
+  margin-top: 10px;
+}
+
+img {
+  margin: 0;
+}
+
+#moreinfo {
+  color: blue;
+  margin-top: 150px;
+  margin-bottom: 40px;
+  text-align: center;
+}
+
+p {
+  text-indent: 40px;
+  padding: 10px;
+}
+
+#info {
+  font-size: 20px;
+  color: blue;
+  margin-top: 10px;
+}
+
+#btn {
+  margin-top: 60px;
+  background-color: blue;
+  font-size: 15px;
+  margin-right: 50px;
+}
+
+#top {
+  color: white;
+  font-size: 15px;
+  font-family: monospace;
+}
+
+footer {
+  color: blue;
+  margin-top: 100px;
+  margin-bottom: 10px;
+}
